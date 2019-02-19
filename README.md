@@ -7,15 +7,15 @@ I will use the Wiki pages to manage the amount of katas I solved. I think most K
 
 I try to solve 7 Katas a per week.
 
-Number of Katas solved:
+Number of Katas solved: 59
 
-              -Kyu 8 :
-              -Kyu 7 :
-              -Kyu 6 :
-              -Kyu 5 :
-              -Kyu 4 :
-              -Kyu 3 :
-              -Kyu 2 :
-              -Kyu 1 : 
+              -Kyu 8 : 49
+              -Kyu 7 : 10
+              -Kyu 6 : 0
+              -Kyu 5 : 0
+              -Kyu 4 : 0
+              -Kyu 3 : 0
+              -Kyu 2 : 0
+              -Kyu 1 : 0 
                 
 
